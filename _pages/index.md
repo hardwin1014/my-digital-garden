@@ -8,7 +8,7 @@ permalink: /
 netlify构建代码：cp -f _notes/AboutTheGarden.md _pages/index.md && mv _notes/Extras . && jekyll build --trace
  -->
  
-hello👋，我是oldwinter❄️，写过几万行代码，带过十几人团队。
+hello👋，我是hardwin1014❄️。
 
 这里是一座「全开放式，每日更新」的[[数字花园]]，由原子化的[[卡片笔记]]编织而成。目前主要在浇灌这2个领域⭕：
 
@@ -22,8 +22,4 @@ hello👋，我是oldwinter❄️，写过几万行代码，带过十几人团�
 - 尽量通过鼠标悬浮预览进行[[上下文]]不中断的阅读。
 - 尽量通过底部[[反向链接]]找回来时的路。
 
-这座数字花园使用[[🤖obsidian]]写作和发布，且毫无保留地开源，这里是[[README]]，这里是项目地址：[GitHub - oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden)。
-
-这座花园里，我挖了很多坑🕳，如果你想敦促我加速填坑，欢迎来提issue。如果方便的话，给个star⭐️呗。
-
-最后，如果您发现了令人不适的内容，或我的个人隐私，请告知我，万分感谢🦀🦀: cdd2zju@gmail.com
+这座数字花园使用[[🤖obsidian]]写作和发布。
